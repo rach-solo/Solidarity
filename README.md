@@ -1,6 +1,7 @@
 # Solidarity
 
 Testnet Address: 0x7d2373e42Ca30a7e500f26Bc11959c77d7CB44BD
+https://kovan.etherscan.io/address/0x7d2373e42ca30a7e500f26bc11959c77d7cb44bd
 
 ## AssociateProfitSplitter
 * This contract will divide and distribute ether equitably amoungst associate level employees.
